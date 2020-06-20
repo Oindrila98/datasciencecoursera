@@ -1,7 +1,4 @@
 ---
-title: "*My first R Markdown*"
-author: "**YOU!**"
-date: "Today"
 output: word_document
 ---
 
